@@ -1,0 +1,22 @@
+#Counter-Project
+Counter-Project/logs
+Counter-Project/*.log
+Counter-Project/npm-debug.log*
+Counter-Project/yarn-debug.log*
+Counter-Project/yarn-error.log*
+Counter-Project/pnpm-debug.log*
+Counter-Project/lerna-debug.log*
+Counter-Project/node_modules
+Counter-Project/dist
+Counter-Project/dist-ssr
+Counter-Project/*.local
+Counter-Project/# Editor directories and files
+Counter-Project/.vscode/*
+Counter-Project/!.vscode/extensions.json
+Counter-Project/.idea
+Counter-Project/.DS_Store
+Counter-Project/*.suo
+Counter-Project/*.ntvs*
+Counter-Project/*.njsproj
+Counter-Project/*.sln
+Counter-Project/*.sw?
