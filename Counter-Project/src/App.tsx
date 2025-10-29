@@ -1,8 +1,9 @@
+import { Button } from "./components/button"
+
 function App() {
-  return (
-    <>
-    </>
-  )
+  return <>
+    <Button name="Adicionar" />
+  </>
 }
 
 export default App
