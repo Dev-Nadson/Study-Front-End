@@ -2,7 +2,10 @@ import { Button } from "./components/button"
 
 function App() {
   return <>
-    <Button name="Adicionar" />
+    <div className="bg-slate-900 h-screen">
+      <Button name="Adicionar" />
+      <Button name="Remover" />
+    </div>
   </>
 }
 
